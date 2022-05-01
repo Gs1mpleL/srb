@@ -10,9 +10,3 @@ spring:
     nacos:
       discovery:
         server-addr: 175.24.174.14:8848 # nacos服务地址
-aliyun:
-  oss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    keyId: LTAI5tLXyPneD2fwy7eZ19N7
-    keySecret: 20sr3wAUSzJCHjL76uJc4CmZM4T8pk
-    bucketName: wanfeng-oss

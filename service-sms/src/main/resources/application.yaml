@@ -33,11 +33,3 @@ feign:
 logging:
   level:
     com.atguigu.srb.sms.client.CoreUserInfoClient: DEBUG #以什么级别监控哪个接口
-#阿里云短信
-aliyun:
-  sms:
-    region-id: cn-hangzhou
-    key-id: LTAI5tLXyPneD2fwy7eZ19N7
-    key-secret: 20sr3wAUSzJCHjL76uJc4CmZM4T8pk
-    template-code: SMS_154950909
-    sign-name: 阿里云短信测试
